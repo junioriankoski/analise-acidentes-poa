@@ -1,20 +1,14 @@
-**1. As perguntas foram respondidas? Quais foram os resultados?
-As perguntas de análise propostas foram respondidas com sucesso utilizando os dados da base de acidentes de trânsito.**
-
+1. As perguntas foram respondidas? Quais foram os resultados?
+As perguntas de análise propostas foram respondidas com sucesso utilizando os dados da base de acidentes de trânsito.
 Em relação à primeira pergunta, verificou-se que os acidentes do tipo Abalroamento concentram o maior número de vítimas graves ou fatais, seguidos pelos acidentes classificados como Colisão e Atropelamento. Esse resultado está relacionado tanto à gravidade desses tipos de ocorrência quanto ao grande número de registros existentes na base.
-
 Na segunda análise, foi observado que os acidentes ocorridos durante a noite apresentam maior gravidade quando comparados aos acidentes diurnos. Aproximadamente 14% dos acidentes noturnos envolveram vítimas graves ou fatais, enquanto durante o dia esse percentual ficou em torno de 5%. Os dados indicam uma associação entre o período noturno e maior severidade dos acidentes, embora não permitam afirmar quais fatores causam essa diferença.
-
 A terceira pergunta mostrou que a sexta-feira é o dia da semana com maior número de acidentes registrados, seguida pelos demais dias úteis. Em relação aos horários, foi identificado um aumento gradual das ocorrências ao longo do dia, com pico por volta das 18 horas, coincidindo com o horário de maior deslocamento da população.
 
-**2. Que padrões apareceram nos dados?**
-
+2. Que padrões apareceram nos dados?
 De forma geral, os dados revelam alguns padrões importantes. Os acidentes tendem a se concentrar nos períodos de maior fluxo de veículos, especialmente no final da tarde e nos dias úteis. Além disso, embora ocorram em menor quantidade, os acidentes registrados durante a noite apresentam maior proporção de casos graves ou fatais.
 
-**3. Quais são as limitações da base e os cuidados necessários na interpretação?**
-
+3. Quais são as limitações da base e os cuidados necessários na interpretação?
 Apesar dos resultados obtidos, a base apresenta algumas limitações. Existem valores ausentes em colunas como horário, latitude, longitude e logradouro, além de uma coluna com elevado percentual de dados faltantes que precisou ser removida. Também é importante destacar que a base registra apenas acidentes oficialmente registrados, podendo haver subnotificação de algumas ocorrências. Além disso, as análises realizadas são descritivas e não permitem estabelecer relações de causa e efeito.
 
-**4. O que poderia ser investigado numa próxima análise?**
-
+4. O que poderia ser investigado numa próxima análise?
 Como continuidade deste trabalho, poderiam ser realizadas análises mais aprofundadas envolvendo a localização geográfica dos acidentes, identificação dos cruzamentos com maior número de ocorrências, comparação entre diferentes anos, influência das condições climáticas, perfil dos veículos envolvidos e aplicação de técnicas de aprendizado de máquina para prever a gravidade dos acidentes. Essas investigações poderiam fornecer informações adicionais para apoiar ações de prevenção e melhoria da segurança no trânsito.
